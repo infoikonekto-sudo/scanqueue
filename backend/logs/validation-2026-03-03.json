@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-03-03T20:13:15.659Z",
+    "status": "error",
+    "studentId": null,
+    "name": null,
+    "grade": null,
+    "error": "VALIDATION_ERROR",
+    "message": "Error descodificando: No se pudo extraer studentId del código",
+    "suggestion": "Intenta nuevamente o ingresa el ID manualmente",
+    "confidence": 0,
+    "isDuplicate": false,
+    "processingTime": 0,
+    "operatorId": "admin-fallback",
+    "ipAddress": "::1",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
+  }
+]

@@ -1,0 +1,7742 @@
+[
+  {
+    "id": "20260123",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Aguilar Escobar, Kathya Yareth",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250062",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Argueta Galindo, Camila Isabella",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260159",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Chávez Quiñonez, Luis André",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260115",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Cifuentes Franco, Mae Alessandra",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260081",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "De León Cortéz, Gabriel Isaac",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260022",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Del Cid Salazar, Raúl André",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260028",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Gramájo Elías, Diego Alejandro",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260051",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Hernández Rivera, William Arturo",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260160",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Ibarra Velásquez, Ximena Lucía",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260145",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Louder Louder, Elijah Cruz",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260031",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Mcfields García, José Gabriel",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260023",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Morataya Chicoj, Saúl Alejandro",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260096",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Pineda Muñoz, José Matteo",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260021",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Ramos Ramazzini, Hazel Karey",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260064",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Rodriguez Barillas, Mariandré",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260007",
+    "created_at": "2026-03-04T18:54:28.146Z",
+    "name": "Rosa Hernández, Hosanna Paulina",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260094",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Sevillanos Ochoa, Rodolfo Matías",
+    "grade": "Nursery",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260020",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Aguilar Morales, Esteban Alejandro",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250184",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Aldana Lemus, Javier Alejandro",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260090",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Barrios Moes, Esteban",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260046",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castaneda Marroquín, Mariam Abigail",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260116",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Coronado Anleu, Luca",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260060",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "de León Pérez, Lhena Daniela Zoé",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250156",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Díaz Gálvez, Ara Nicolle",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260012",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Escobar Juárez, María Ester",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260129",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Flores Jimenez, Ricardo Antonio",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260008",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Herincx Barrondo, Natanael",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260052",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Marcos Hernández, Matías Andrés",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250195",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Mazariegos Bonilla, Diego Martin",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260071",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Mejía Catalán, Ana Valeria",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250038",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Menéndez Soza, Alena Isabel",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260006",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Morales Salazar, Arwen Sophia",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250153",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Portillo Corado, Dulce Abigail",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250085",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Salazar Anderson, Luna Marina",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250079",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Tun Ramírez, Elisa María",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260019",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Zambrano Guevara, Walter Samuel",
+    "grade": "Pre-Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260148",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Moreno Rivera, Mía",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260024",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Alvarez Sikahall, Santiago Alejandro",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260050",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Chumil García, Aixa Marcela",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260002",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "De León Morataya, Juliana Camila",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250035",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Figueroa Sandoval, Nicolás André",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250028",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "García Bolaños, Daniela Azucena",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260141",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Halliday Hernández, Allan Matthew",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260025",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Hernández Belloso, Sara Elena",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250026",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Hernández Martinez, Fátima Ana Lú",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260056",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Martínez Barberena, Matías Samuel",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260013",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Muñoz López, Maddison Fernanda",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260030",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Orellana Isidro, Isabel Alejandra",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260087",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Peitzner Ortíz, Daniel Emilián",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260044",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Reyes Paz, Diego",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250164",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rodríguez Morán, Matías Gabriel",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260106",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rossell Meneses, Diego André",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250034",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Samayoa González, Camila Victoria",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250061",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Sotoj Guzmán, Ana Ester",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260055",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Umaña Villatoro, Bruno Emiliano",
+    "grade": "Pre-Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240012",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ajquejay Sitán, Jared Santiago",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240253",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Alvarez Hernández, Jairo Santiago",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250063",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Barrios Castillo, Evan Rodrigo",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250232",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Casasola De León, Carlos Caleb",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240083",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Cervantes García, Adrián",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250018",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Coronado de León, José Andrés",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250113",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Franco Cotón, Génesis Natalia",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250005",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Garcia Gómez, Liam Alessandro",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250095",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Guevara Vanegas, Bryan Adrián",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250196",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Hernández Ayerdi, Ana Sarai",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240208",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Jimenez Carías, Meredith Magaly",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240251",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Linares de León, Samuel Alejandro",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240192",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Mosca García, Giuliana",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250067",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rojas Tercero, Juan Diego",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250136",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ruíz Morales, José David",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250036",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Zamora Escobedo, Jimena Lucía",
+    "grade": "Kínder",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240017",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Cabrera Guatemala, Josue Benjamín",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240030",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castellanos Torres, Ian Emanuel",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260122",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castro Zapata, Ethan Esteban",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250161",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Chinchilla Guerra, Karen Sofía",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250119",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "de León Girón, Mía Isabella",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240024",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Díaz Batres, Eunice Izabella",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250048",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Girón Escobar, Megan Avril",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260132",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "González Erroa, Matthew Julian",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260045",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Hernández Guerra, Emilia Valeria",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240105",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Hidalgo Duarte, José Daniel",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260072",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "López Roca, Ania Dariela Amelie",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250107",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Méndez Ramos, David Jóse",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260003",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Morales Guevara, Eithan Kaleb",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250162",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rodríguez Morán, Josué David",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240133",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Solórzano Monzón, Jorge Gustavo",
+    "grade": "Kínder",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250031",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castaneda Marroquín, Pablo Andrés",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260005",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Cojulún García, María Alejandra",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260082",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "De León Cortéz, Elías Samuel",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260121",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Estrada Morales, Braulio Sebastian",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250041",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Fuentes Flores, Marcela Sofía",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260100",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "García Marroquín, Ethan Caleb",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250051",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Girón Mérida, Jared Arturo",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240172",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Monzón Portillo, Enrique Emilio",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250014",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Portillo Sánchez, Diego Matías",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240034",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Reyes Alvarado, Jose André",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240058",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Soberanis Bolaños, Emily",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260009",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Súchite Borrayo, Mario Gabriel",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250132",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Tohom Alvarado, Ivanna Zaray",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250083",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Velásquez Hernández, Camila Abigail",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250242",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Yoc Junay, Amílcar Isaac",
+    "grade": "Kínder",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250070",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ajcú Yoc, Sofia Daniela",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260059",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Barrera Camposeco, Montserrat",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240186",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Celis Hecht Sosa, Ariella",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240233",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Contreras Cano, Alina Victoria",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240114",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Coronado Anleu, Martina",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230007",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Fernandez Zamora, Christopher Matías",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230097",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Hernández Ochoa, Marcos Gabriel",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240056",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Lara España, Ian David",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250173",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Lemus Merida, Dylan Santiago",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250064",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Pérez Chávez, Marco Tulio",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240025",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rodriguez Muñoz, Mateo Rene",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240120",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rojas Santizo, Rebeca Alessia",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260103",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Yantuche Cabrera, Eldin Aarón",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240055",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Yash Medrano, Eliette Sarai",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250004",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Zabala Mejía, Katie Madisson",
+    "grade": "Preparatoria",
+    "section": "A",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230020",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Baños Sagastume, Leah Beatriz",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240223",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Brenner Maldonado, Aithana Miroslava",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240145",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Cambrán Aguilar, Elisa Isabel",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260014",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Diaz Castro, Ianira Natalia Analí",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260004",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Donis Gómez, Alisson Daniela",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250049",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Espinoza Soto, Gianna Nohemí",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250092",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Louder Louder, Isabel Laine",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230064",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Manzoni Salomon, Ennio Faruk",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250102",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Méndez Gómez, Rodrigo Isaac",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240028",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ordoñez Galíndo, Avril",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250029",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Requena Valladares, Diego Josue Alejandro",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240201",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Sosa Lafuente, Lucas",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260152",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Vanegas Ortíz, Amelia Isabel",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250112",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Vásquez Mérida, Matías Rodrigo",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260043",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Zambrano Reyes, Derek Sebastian",
+    "grade": "Preparatoria",
+    "section": "B",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240037",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Alvarez Sikahall, Jose Javier",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240225",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Barrientos Castro, Alison Naara",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240135",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Cabrera Chacón, Pablo Santiago",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230241",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castañeda Rosales, Carlos Matías",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250017",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Coronado De León, Carlos Adrián",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250010",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "García Izquierdo, André",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250099",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Guevara López, Samuel Isaac",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250007",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Lang Escobar, Annie",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240063",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Lara Peña, Matías Caleb",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240140",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Magaña Solorzano, Isabella Marina",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230305",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Mazariegos Bonilla, Alexia",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230036",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Méndez Saucedo, Carlo Imanol",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240043",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Pacajó De León, Leah Beatríz",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250075",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rodriguez Barillas, Mía Nicole",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250060",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Sotoj Guzmán, Luz Eliana",
+    "grade": "Preparatoria",
+    "section": "C",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240170",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Burgos Hernández, Fernanda Valentina",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240033",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Canizalez Florian, Danna Sofía",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250233",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Casasola De León, Eliseo Daniel",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240049",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castellanos Sasbin, René Roberto",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260032",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "De La Roca Godínez, José Manuel",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260156",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Flores Leal, Carlos Enrique",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250043",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "García Echeverría, Gianna Eliette",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230074",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ibarra Velásquez, José Fernando",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240096",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Méndez Castellanos, Sara Natalia",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230061",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Morataya Chicoj, Daniela Alejandra",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240134",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Murillo Urrutia, Emilio David",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20260086",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Peitzner Ortíz, Amelia Luciana",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240009",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Raxón Morales, Emilio Javier",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240048",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Setina Urzúa, Ana Elizabeth",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20250131",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Xiloj López, Angie Alessandra",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20240036",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Xitumul Ambélis, Paulo Gabriel",
+    "grade": "Preparatoria",
+    "section": "D",
+    "level": "Preprimaria",
+    "active": true
+  },
+  {
+    "id": "20230001",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Aguilar Cano, Ana Sofía",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260039",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Aguilar Cardona, Isabella Sophia",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240035",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Chicuy Marroquín, Lisandro Isaac",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240142",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Cruz Contreras, Emma Isabella",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230051",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "de León Pérez, Paula Isabella",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240057",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Estrada Ochoa, Michelle Elizabeth",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240104",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Foronda Boche, Vianka Harieth",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240060",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Gamboa Ochoa, Mynor",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260155",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "García Cabezas, Emma Valeria",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260065",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "García Girón, Sofía Victoria",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230008",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Lantán Lima, Marcovidio",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260033",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Mejía Catalán, Natalia",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230040",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Méndez Alvarado, Sara Daniela",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240066",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Mendizabal Lee, Andrés Mateo",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230207",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Monroy Martínez, Luciana Valeria",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250080",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Palma Maldonado, Keylin Isabella",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240116",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Pontaza Valle, William Reinhard",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250116",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Porras Gonzalez, Nazareth",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260037",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rac Herrera, Juan Emilio",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230004",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rodríguez Aguilar, Hugo Rodolfo Antonio",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250163",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rodríguez Morán, Santiago Emmanuel",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230112",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Villalobos Delgado, Neythan Santiago",
+    "grade": "Primero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230048",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Aldana Escobar, Hesed",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240031",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Arevalo Ortiz, Francisco Alejandro",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250147",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Barillas Bolaños, Ana Rebeca",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220018",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castañeda Ramírez, Andrea Beatriz",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240029",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castellanos Lavagnino, Alicia Isabella",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260142",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "CASTRO ZAPATA, ISRAEL EMILIANO",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250160",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Chinchilla Guerra, Mynor Sebastián",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250091",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Estrada Cordón, Julián Eduardo",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240162",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Godoy Menchú, Evolet Danielle Alejandra",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230010",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Gómez Pablo, Márian Galilea",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260034",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Hernández Belloso, Matteo",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260067",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Hernández Rossal, Athalia",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250105",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Juárez Barrios, Franklin Santiago",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230101",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Portillo Corado, Dulce Zarah",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260134",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ramos Alvarez, Fátima Lucía",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230023",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rivera Ordóñez, Juan Diego",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230077",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rojas Ruiz, Natalia Nicole",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240010",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rubio Mazariegos, Sofía",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250022",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Santizo Gutierrez, Gabriela Abigail",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240093",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Velásquez Castro, Lian Santiago",
+    "grade": "Primero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260029",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Antuche, Joel Abraham",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240040",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ardón Castillo, Diego Javier",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260047",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Arriaza Palacios, Juan Diego",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230087",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Chinchilla Barrera, Hanna Desirée",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250189",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Dominguez Quiroa, Marcelo",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230242",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Droege Valladares, Derek Mathias",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230022",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Fernandez Artavia, Dara Valeria",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240005",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Gómez Lemus, Dylan André",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220069",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Gramájo Elías, Matías Emiliano",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250030",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Izaguirre Orozco, Isaac Abigail",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230016",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "López López, María Inés",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260093",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "López Reyes, Sofia Roselí",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230069",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Mejia Monzón, María Renné",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220008",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Morales Olavarrueth, Hosanna Nicole",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250045",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ordoñez Girón, Jacobo Sebastián",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240101",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ortiz García, Aury Samantha",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240143",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ortíz González, Fátima Natalia",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230099",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Quiroa Mendoza, Fátima Valeria",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240075",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Rodríguez Montúfar, Caleb Adrián",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240109",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Romero Barrientos, Paula Sophia",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250019",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Sierra Espinoza, Matías Nícolas",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230090",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Velásquez Hernández, Samuel Estuardo",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260011",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Veliz Molina, Catherine Andrea",
+    "grade": "Primero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240050",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Castellanos Sasbin, Mirari Sharely",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260109",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Contreras López, Zoe Elizabeth",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240041",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "De León Morataya, Fabiana Isabel",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230073",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Figueroa Sandoval, Lucas Ignacio",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250039",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Fuentes Flores, Ana Paula",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230119",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Galeano Reyes, Diana Karina",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230088",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Herincx Barrondo, Isaac",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240249",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Ixcoy Alvarado, Rodrigo Alejandro",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260080",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Lee Rodriguez, Ha Youn",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220204",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Mazariegos Dávila, Lucas Adrian",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260136",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Morales Letona, David Nicolás",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220207",
+    "created_at": "2026-03-04T18:54:28.147Z",
+    "name": "Orantes Moreno, Emiliana María",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240051",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Pineda Cruz, Adrew David",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240022",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Poncio Cifuentes, Gael Fernando",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260010",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rodríguez Arizandieta, Santiago Ferrán",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240076",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rodríguez Montúfar, Josué André",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240102",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sacalxot Hernández, María José",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240132",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Solórzano Monzón, Angela Sofía",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230237",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Tohom Alvarado, Ian Santiago",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240168",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Vargas Cacheo, Mía Isabella",
+    "grade": "Primero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230068",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alvarado Morales, Daniela",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220027",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Arellanos Vásquez, Emily Nicolle",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220013",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cabrera Guatemala, Elizabeth Joyce",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250016",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Carrillo Mauricio, Génesis Ariana",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230216",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Castellanos Gómez, Avril Ariana",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230018",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Castillo Tay, Luis Antonio",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240061",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cruz Meng, José Daniel",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220110",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Guzmán Avila, Marcelo",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230009",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hernández Concua, Luna Reneé",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230183",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Leal De León, Matias Alejandro",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220083",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mancilla Fuentes, Nicolas Alejandro",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250081",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Navas Moraga, Fabio Ignacio",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230127",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Obando García, William Sebastián",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220041",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Salazar Chicas, Miguel Andrés",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260063",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Samayoa Ixpatá, Marian Camila",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220014",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Tul Hernández, Ela Isabella",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220006",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Xitumul Hernández, Tier Allieser",
+    "grade": "Segundo",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230067",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alvarado Morales, Fabian",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230094",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Casado Gobern, Camila Victoria",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250221",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Chacón Casasola, Pablo Santiago",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250157",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "de León Medina, Jared Emiliano",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220135",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Estrada Azurdia, Mía Isabela",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220127",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Gálvez Alecio, Diego Gabriel Alejandro",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240123",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Letona, Ramiro Benjamin",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230031",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Rosales, Leonel Antonio",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220039",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Guevara Pérez, Carlos Santiago",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230146",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hernández Rosales, Santiago Milton Alexis",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230025",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Lara España, Jesiah Arleth",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260058",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "López Godínez, Emma",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230049",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Marroquín Siliézar, Thiago Isaac",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210017",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Martínez Reyes, José Alejandro",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250012",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Melgar Lepe, Fátima Lucía",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240215",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Palma Alvarado, Carlos Andrés",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230029",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Reyes Alvarado, Mariandré",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250137",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Reyes Paz, Emilia",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250078",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rivera Torres, Mateo",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220055",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Vásquez Joachín, Alexia Daniela",
+    "grade": "Segundo",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250235",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Argueta Avila, Donald Eduardo",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250124",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Castro Orellana, Anika Valentina",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230123",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Chacón Florian, Christian Daniel",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220007",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cisneros Boteo, Ana Luisa",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210045",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Estrada Palma, Javier Sebastian",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250106",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Flowers Castillo, Clarence",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230002",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Aguilar, Keyra Valentina",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220142",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hernández Ortíz, Melissa Nicole",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230109",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Méndez Bix, María Renée",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250066",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Montepeque Barrios, Manuel Alejandro",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250169",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Aguilar, Ian Eduardo",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210032",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Olavarrueth, Adriana Lorraine",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230104",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Navarro Agustin, Mathías Andrés",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250082",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Navas Moraga, Luciano Emanuel",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240003",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Negreros Quiñonez, Samuel Estuardo",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240019",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ramírez Leiva, Natalia Isabel",
+    "grade": "Segundo",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230066",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alvarado Morales, Andres",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220079",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cavinal Patzán, Dayana Abigail De Los Angeles",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220202",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cruz Rodríguez, Camila Eloisa",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260073",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "de la Cerda de León, Camila",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230108",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Escobar Juárez, Miriam Jimena",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230027",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Flores García, Paolo Santiago",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250013",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Galindo Galicia, Josué Caleb",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230019",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Izquierdo, Avril",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250037",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hernández Ruiz, Sebastián Nicolás",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250088",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "López Reyes, Paula Mariana",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250115",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Moreno Rivera, Matías",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230043",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sipac Morales, Liam Santiago",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230198",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Vanegas Ortíz, Mateo Sebastián",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240177",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Villavicencio Abreu, Sebastian",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240014",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Zepeda Ibañez, Estuardo Andrés",
+    "grade": "Segundo",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230257",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Barrios Rodas, Kendall Génesis Allie",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200001",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cerezo Aguilar, Zoe Valentina",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230082",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Chavajay Arriola, Emma Valentina",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220032",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cuches Marroquín, Sigrid Alejandra",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240240",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Flores Díaz, Matthew Rodrigo",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220064",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hernández Rosales, Miguel Angel",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230141",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "López Barrueto, Nathan David",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260163",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mazariegos Barrera, Mia Isabella",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230272",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Laparra, Carlos Clementino",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230197",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Pelicó López, Juan Diego",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230058",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Quintanilla García, Mateo Javier",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260158",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ramirez Quiñonez, Jaycob Enrique",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260092",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rosales Herrera, José Sebastián",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220124",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ruiz Acevedo, Alejandra Haidée Raquel",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230083",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sigüil Madrid, Christopher Gabriel",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230235",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Tohom Alvarado, Allyson Zamara",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220003",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Velásquez Barrios, Debanhi Sofía",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220206",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Zapata Deherrera, Juliet Renee",
+    "grade": "Tercero",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240011",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ajquejay Sitán, Anelisse",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250086",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Arias Arévalo, Estefany Sofia",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210048",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Barrera Fong, Vita",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240047",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Baten Rojas, Kelly Sofia",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220011",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Catalán Son, Ana Isabel",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200061",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Chitay Lemus, Marcela Siloé",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210055",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Choxin Samayoa, Isaac Benjamín",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230230",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Coc Patzán, Génesis María José",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230213",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cornejo López, Maria Ximena",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220035",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cruz Osorio, Amanda Annelise",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220081",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Foronda Boche, Fatima Berenise",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240122",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Letona, Elmer Rodrígo Reginaldo",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210015",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Méndez Castellanos, Martín Emilio",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220054",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Guevara, Liam Nicholas",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240100",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ortiz García, Obed Sebastián",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220059",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rodríguez Pérez, Diego Adrián",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220180",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Setina Urzúa, David Emanuel",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210027",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Tul Hernández, Roger Isaac",
+    "grade": "Tercero",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220103",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Aguilar Escobar, Estephanie Jamileth",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230222",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Arguello Velásquez, Emma Belén",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200081",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Baños Sagastume, Dulce Giselle",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220004",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Bran España, Jimena Camila",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200096",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cetino Jerónimo, Luis Felipe",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230050",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cojulún García, Jose Mateo",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210020",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "González Chicoj, Saúl Benjamín",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200152",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Jerez López, Mateo Emanuel",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250093",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Louder Louder, Mila Hope",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220037",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Martínez Carrera, David Alfonso",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220147",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Orellana Morales, Rodrigo Ottoniel",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210038",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ramírez Chavarria, Sebastián André",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230035",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Raxón Boror, Esteban André",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230028",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Reyes Alvarado, André Rafael",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240128",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sánchez Noriega, Alejandra Sofía",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220185",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sical Mejía, Keren Sofia",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220062",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Tacatic Orellana, Irene Waleska",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250223",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Urbina Alvarado, Nicolás Isaac",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240054",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Yash Medrano, Owen Misael",
+    "grade": "Tercero",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230182",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alvarado Morales, Wilson Andrés",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220179",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Barrera Camposeco, Sara Daniela",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220203",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Casasola Velásquez, Dana Saraí",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240082",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cervantes García, Emilia",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200026",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Chinchilla Contreras, Ana Sofía",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250241",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "De León Ramírez, Abner Rodrigo",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230169",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Delgado delos Reyes, Miya Elisabeth",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200054",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Estrada Palma, Jasper Caleb",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260099",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Marroquín, Evi Salomé",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220038",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Guevara Pérez, Rodrigo Ignacio",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220090",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hurtarte Rivera, Alejandro José",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200017",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Jerez Quiróz, Ema",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220194",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Lima Reinsch, Lenna Michelle",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220048",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mejia García, Aidan Gabriel",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240203",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ramírez Aldana, Juan Diego",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240059",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Recinos Garzaro, Maria José",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240086",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rodriguez Pérez, Carlos Santiago",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250059",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sotoj Guzmán, Esteban Daniel",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220040",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Yoc Tezó, Santiago",
+    "grade": "Tercero",
+    "section": "D",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200025",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Bonilla Estrada, Anna Victoria",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190041",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cardona Lepe, José Javier",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230011",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Carrera González, Abby Daniela",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210072",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Chacón Florian, José Ricardo",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230046",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Corzo Arana, Mia Isabella",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230121",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Del Cid Rodríguez, Génesis Paulina",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230070",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Flores Reyes, Marcelo",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230015",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Fuentes Juárez, Gabriela Cristina",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230089",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hernández Martinez, Alicia Ana Paula",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210011",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hidalgo Duarte, Jacobo Andrés",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220072",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "López de León, Isabella María",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190126",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "López López, Angélica Isabel",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200011",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "López Rosales, Pablo Danilo Andrés",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200105",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Maldonado Arriaga, Pedro Pablo",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220080",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mejía Monzón, María Belén",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190070",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Melendez Sagastume, Alejandra Nicolle",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230227",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mendez Orózco, Jose Santiago",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190067",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ovalle Mollinedo, Valentina",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240092",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Paiz Vásquez, Ian David",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240226",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Palacios Mohr, Dennis Estuardo",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240228",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Pérez Guerra, María Ximena",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230072",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Piche Rodríguez, Alvaro Alejandro",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190114",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Pozuelos Castillo, Theo Rodrigo",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220153",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rivera Fernandez, Megan",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230233",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Tobar Estrada, Danna Valeria",
+    "grade": "Cuarto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240018",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alvarado Bermudez, Ariana Jimena",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240080",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Arenas Gómez, Victoria Isabella",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220092",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Burgos Gramajo, Mateo",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190004",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Castaneda Marroquín, Mathías Isaí",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220019",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Castañeda Ramírez, Victoria Sophia",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210057",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Corzantes Gonzalez, Christopher Rodrigo",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230120",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Del Cid Rodríguez, Alexa Isabella",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220154",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Donis Gómez, Jessica Sophia",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230080",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Gómez López, Josué Adrián",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220143",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Hernández Ortíz, Adrián Alessandro",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190107",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mazariegos Dávila, Antony Mateo",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190013",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mazariegos Mazariegos, Regina Belén",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190087",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Barrera, Abba Sofía",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200066",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ortíz González, Juan David",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250052",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Peralta Ordóñez, Elmer Matías",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200059",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Perez Sosa, Samuel Iván",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230071",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Piche Rodríguez, Alejandro Joaquín",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240071",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Pineda Marroquín, Sofía Abigail",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200013",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Poroj Velásquez, Jimena Valentina",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200153",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Pú Escobar, Marlen Chanel",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200002",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Quevedo Mejía, Valeria Alejandra",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220009",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Santizo Gutierrez, Catherine Daniela",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260135",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Villatoro Romero, Andrew Daniel",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190020",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Xicay Tzirin, Adriana Elízabeth",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240013",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Zepeda Ibañez, Adriana Sofía",
+    "grade": "Cuarto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250222",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alvarado, Sofia Christina",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200041",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alvarez Retana, Krisol Valentina",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220085",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Arriaza Aldana, Emma Daniela",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200115",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Bravo Morales, Marcela",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220225",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Brenner Maldonado, Karl",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240137",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cabrera Chacón, Sebastian Alejandro",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220058",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cordón Aldana, Andrés Isaac",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200063",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "De Villa Lima, Julio René",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260070",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Espina Meléndez, Rafael Francesco",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230021",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Fernandez Artavia, Zoe Victoria",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210025",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Gamboa Ochoa, Valentina",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220095",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "López Olivares, Christopher André",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220082",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mancilla Fuentes, Erwin Mateo",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230243",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mazariegos Ortiz, Pablo Antonio",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240088",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mejicanos Cordón, Natalia Jimena",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220160",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Méndez Escobar, Richarth Alfonzo",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230059",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Navas Moraga, Isabella Valentina",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210059",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Palacios Pérez, Nery Gabriel",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200003",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Romero Max, Carlos Enrique",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260041",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rosal Sosa, Emma Sofia",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230092",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sánchez Labin, Abril",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210009",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sierra Espinoza, Gabriela Alexandra",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230184",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Sosa Lafuente, Samuel",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200004",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Yoc Junay, Jimena Eunice",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200007",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Zúñiga Bobadilla, Vanesa",
+    "grade": "Cuarto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220196",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Aguilar Arévalo, Jorge Mario",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190090",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Barrios Castillo, Sofía Nicole",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250214",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Garcia López, Helena Sofía",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210068",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Girón Escobar, Maciel Alexandra",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220022",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Gómez Lemus, Ian Adrián",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190018",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Juárez Arango, Rebeca Anelis",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210012",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Lang Escobar, Jack",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220158",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Marroquín Mendoza, Gianluca Francisco",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190023",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Monzón Jo, Daniel Alejandro",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230273",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Laparra, Isabella Valentina",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220132",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Noj Castillo, Alejandro Josué",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200117",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Orellana Tema, Fredy Raúl",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220125",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Palma Alvarado, Adriana Isabel",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250101",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Patzan Reyes, Zoe Valentina",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180276",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Raguay González, Sofía Valentina",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190100",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ramírez Herrera, Matías Gabriel",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200166",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rodríguez Torres, Allan Matías Guillermo",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180018",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ruyán Quiñónez, Paula Sofía",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210079",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Salguero Aceituno, Sofia",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240023",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Santizo Montenegro, Maria Ximena",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180104",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Vásquez Urrutia, Vinicio Isaac",
+    "grade": "Quinto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220060",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Acajabón García, Helen Vanessa",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230215",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Aguirre Hernández, Liz Alejandra",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250071",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ajcú Yoc, Angel Fernando",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220188",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alemán Morales, Martín André",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200023",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Angel Pernillo, Thiago André",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190001",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Castañeda Herrera, Nicole Ariana",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230017",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Escobar Vásquez, Thaís Isabella",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220102",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Fernández Alvarez, Inés",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200130",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Caal, Sara Daniela",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200167",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Guamuch Loarca, Moisés Isaac",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190068",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mejia Monzón, Maria Paula",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210033",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Olavarrueth, Daniella Fernanda",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200122",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Pérez Montoya, Mario Christian Emmanuel",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220150",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Piche Rodríguez, Edgar Hiran",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190149",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ruiz Martínez, Pablo André",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220042",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Salazar Chicas, Alejandro",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200028",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Samayoa Ixpatá, Matías Rodrigo",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210062",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Santizo Castillo, Samuel Santiago",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210078",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Velarde Polanco, Pedro José",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240178",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Villavicencio Abreu, Luis Emanuel",
+    "grade": "Quinto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230144",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Anastacio Yacabalquiej, Joel Agustin",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190075",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Chinchilla Méndez, Santiago",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190081",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "De León Gutiérrez, Kamila Nicole",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190031",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "de León Mendez, Susan Paola",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190163",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Galán Gómez, Elisabet Areli",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190017",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Gálvez Alecio, Melissa Raquel",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190198",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Juárez Cerezo, Javier Fernando",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180061",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Linares Sosa, Jackeline",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190022",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Magaña Solorzano, Mateo Adolfo",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250058",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Marquez Gonzalez, Thiago Alfredo",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210016",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Martínez Reyes, Josué Sebastian",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240231",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mendez Rodríguez, Fajry Santiago",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180207",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Monterroso Lizama, Hans Isaí",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190113",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Sosa, Héctor Sebastian",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190204",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ordoñez Orantes, Pablo Daniel",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220033",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Pirir Puac, Julio André",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240068",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Polanco Paredes, Elba Sofía",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260161",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Retana Reyes, Mateo Adolfo",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220112",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Rojas Santizo, Giuliana Victoria",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210087",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Velásquez Hernández, Sophia Camila",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190080",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Zapata DeHerrera, Julian Kaleb",
+    "grade": "Quinto",
+    "section": "C",
+    "level": "primaria",
+    "active": true
+  },
+  {
+    "id": "20170052",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Cerezo Aguilar, Isabella",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250149",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Colindres Estrada, Diego Andrés",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190137",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "De León Estrada, Ana Isabella",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260027",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "de León Salazar, William Alessander",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230268",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Flores Leal, Alvaro José",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200083",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Gámez Palencía, Ennio Aaron",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200094",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Estrada, Carlos Santiago",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240138",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Girón Noj, María Elena",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20170007",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Godínez Melgar, Adrián Eduardo",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220046",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Gómez Molina, Santiago David",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210077",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "González Pierri, Sophia Nicole",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230140",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "López Barrueto, Jonathan David",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230244",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Mazariegos Ortiz, Miguel Antonio",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20170054",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Melgar Maldonado, Sara",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200030",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Meza Galindo, Matías Nicolás",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180255",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Morales Portillo, José Sebastián",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240144",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ovalle Rodriguez, Mariana Isabel",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240130",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Portocarrero Galdamez, Linda Nataly",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210040",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Romero Barrientos, Iker Mathias",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190142",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Ruiz Gómez, Jorge Miguel",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200072",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Soto Woods, Brianna",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190003",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Velásquez Barrios, Cristopher Israel",
+    "grade": "Sexto",
+    "section": "A",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210086",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Alvarado Morales, Sophie Valeria",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20230185",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Calderón Argueta, Juan Diego",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260083",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Castillo Castro, José André",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190095",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Chicuy Marroquín, Zoe Isabella",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180220",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Flores Aguilar, Dilan Javier",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210010",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "García Siliezar, Elizabeth Abigail",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180002",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Heidenreich Troncoso, Asiel",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250087",
+    "created_at": "2026-03-04T18:54:28.148Z",
+    "name": "Juárez Aguilar, Adrian Matías",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200043",
+    "created_at": "2026-03-04T18:54:28.151Z",
+    "name": "Monroy Martínez, Valentina Andrea",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180119",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Morales Sosa, Valentina Isabella",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240074",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Morales Tujab, Ariana Sofía",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210004",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Orellana Isidro, Santiago Alejandro",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200015",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Pacheco Garcia, Santiago",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220089",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Paz Corzo, Sebastián",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210043",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Pérez Corado, Mía Isabella",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190002",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Raxón Boror, Melody Rubí",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180073",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Rodas del Valle, Valery Isabella",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210054",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Rosales Morales, Gabriel Estuardo",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200032",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Sajché Ramírez, Santiago Daniel",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20170065",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Téllez Cordón, Ruth Estefanía",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240085",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Urrutia Sequeida, Jimena Sofía",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20250042",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Velásquez Vargas, Diego Sebastián",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180064",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Villegas Rincon, Johan Daniel",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180013",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Xicay Tzirin, Werner Santiago Adrián",
+    "grade": "Sexto",
+    "section": "B",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220104",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Aguilar Escobar, Crhistian Alberto",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200104",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Arevalo Ortiz, José Javier",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180144",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Chinchilla Contreras, María Esther",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180027",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "De La Rosa Barrios, Izzy Daniela",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200040",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "de León Barrios, Valentina Sophia",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190150",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "España Ortega, Vanessa Valentina",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220101",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Fernández Alvarez, Emilio",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210003",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Fernandez Zamora, Diego Alberto",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180050",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Gallo López, Marlin Sofia",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20260084",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "García Celada, Erick Andrés",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240124",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "García Letona, Camila Sofía",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20170027",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Lara España, Jadassa Nahomi",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180083",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "López Rosales, Carlos Pablo Danilo",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20170093",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Luján Ovalle, Santiago",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180040",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Méndez Herrera, Elliot Fernando Sebastián",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20170066",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Morales Barrera, Santiago Roberto",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20200065",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Ortíz González, Diego Sebastian",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20220173",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Palma Marchorro, Darío Alejandro",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180182",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Romero Max, María Jimena",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20190141",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Ruiz Gómez, Leonel Alexander",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240129",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Sánchez Noriega, Ana Paula",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20180063",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Villegas Rincon, Jhon Anderson",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20240015",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Zepeda Ibañez, Lucía Mayarí",
+    "grade": "Sexto",
+    "section": "C",
+    "level": "Primaria",
+    "active": true
+  },
+  {
+    "id": "20210007",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Díaz Román, Abrianna Jael",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170138",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Diaz Ruíz, Krista Daniela",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220211",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Droege Valladares, Brianna Dominique",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180010",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "García Caal, José Pablo",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180098",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "González Rodríguez, Ian Santiago",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180023",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Hidalgo Duarte, Joaquín Esteban",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200016",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Jerez Quiróz, Samuel",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180041",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "López Oscal, Santiago Rodelvy",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260069",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Mayen Cruz, Gimena Alejandra",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160158",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Mazariegos Dávila, Amy Valeria",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190084",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Navarro Agustin, Saúl Alexander",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220067",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Nova Santizo, Marvin Alejandro",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240227",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Ortega Palacios, Jeffrey Omar",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170023",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Pacajó De León, Carlos Emilio",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200075",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Palacios Barrios, Javier Andres",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170154",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Raguay González, Jimena Abigail",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180175",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Rojas Ruiz, Victor Sebastián",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190032",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Soberanis Tezó, Valeria",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260117",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Soto Aguilar, Ximena Noemi",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260054",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Tuy Tun, Valeria",
+    "grade": "Séptimo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260040",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Artola Villeda, Philippe Eliu",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180232",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Barrios Marroquín, Zoar Margarita Dessiree",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230258",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Barrios Rodas, Gisselle Valentina",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240136",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Cabrera Chacón, José Emilio",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190076",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Chinchilla Méndez, Esteban",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170030",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Cobos Méndez, Santiago Humberto",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170147",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "De León Mendez, Stephanie Sofia",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160024",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "De León Salguero, Amy",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160133",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Galán Gómez, Sara Abigail",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160023",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Hernández Chajón, Santiago Etienne",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150151",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Jeréz López, Roberto Alejandro",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260091",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "López González, Carlos Sebastian",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170055",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Maldonado Arriaga, Marcos David",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240069",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Ovalle González, Cecilia María",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240229",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Pérez Guerra, María Paula",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180017",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Ruyán Quiñónez, Marcela Valentina",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230252",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Salazar Yanes, Pedro Junbatz’ Sebastián",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200175",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Salguero Aceituno, Valentina",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180004",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Sir Caal, Rebecca Valentina",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180047",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Valenzuela Rivadeneira, Katherine Georgina",
+    "grade": "Séptimo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180107",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Ajin Alvarado, Eduardo Esteban",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200135",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Betancourt Echeverría, Fernando Andrés",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200116",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Bravo Morales, Valeria",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20210014",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Cabrera Sas, Marcos André",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160035",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Cáceres Aldana, Isabel",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230261",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Calderón Avila, Natalia",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200057",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Carrillo Pérez, Emilio Andrés",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170019",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "López Mancía, Jimena Alejandra",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160124",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Márquez Osorio, Genesis Daniela",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200069",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Mendez López, Andrea Nicolle",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170193",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Monzón Barahoná, Anelisse",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160010",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Morán Prillwitz, Luciano Adolfo",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220172",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Palma Marchorro, María Elizabeth",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220088",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Paz Corzo, Carlos José",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180020",
+    "created_at": "2026-03-04T18:54:28.152Z",
+    "name": "Pérez Montoya, Jeimmy Brigitte",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170061",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Ruiz Pérez, Génesis Gabriella",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160082",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Samayoa Gálvez, Carlos Emilio",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190064",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Wöhlers Urizar, Marianne",
+    "grade": "Séptimo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230096",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Casado Gobern, Carlos Sebastián",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170126",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cuté Pineda, Paulo André",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160125",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "García Velásquez, Isabella Natalia",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220212",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Garrido Pazos, Ana Valentina",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220201",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Garzaro Asturias, Mario Ruben",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160152",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "González Flores, Jarosleen Anielka",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190089",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Gutiérrez Castillo, Jimena Isabella",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150073",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Lucero Figueroa, Sarah Abigail",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150047",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Marin Mota, Matthew André",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160097",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Martínez Vásquez, Josué Abraham",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230253",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Salazar Yanes, Natalia Amelí",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230037",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Turcios Flores, José Andreé",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190083",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Urbina Rivas, Zoe Abigail",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180030",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Zacarías Blanco, Camila Sofía",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150056",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Zúñiga Bobadilla, Rodrigo",
+    "grade": "Octavo",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250236",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Argueta Avila, Diego Alejandro",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240160",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Barrios Rosales, Anthony Josué",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230107",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cabrera López, Allyson Abigail",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160081",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Castillo Morales, Sarah Sophia",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220187",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cordón Aldana, Luz María",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160067",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "García Barrios, Santiago",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190030",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "González González, Renata Isabella",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190071",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Lémus Molina, Jaden Miguel",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190073",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Martinez Cardona, Emma Alessandra",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200068",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Mendez López, Laura Alejandra",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160038",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Monroy Yoc, Sofía Isabella",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160078",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Monterroso Lizama, Matías Leonel",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150084",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Monzón Jo, David Santiago",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220131",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Noj Castillo, Andrés David",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250219",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Palma Monzon, María José",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230098",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Quiroa Mendoza, Lourdes Rocio",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220113",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Rojas Santizo, Mia Isabella",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190093",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Sánchez López, Pablo Josué",
+    "grade": "Octavo",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180133",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Avila Castellanos, Waleska",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180154",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Barrios García, Pedro Otoniel",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190047",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cardona Lepe, Anna Paula",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180012",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Celis López, Ivannia Melissa",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200194",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cifuentes Aguilar, Camila Dominika",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180198",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Espósito Reyes, Isabella",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250213",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Garcia López, Estuardo André",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190038",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "García Siliezar, Gabriel Obed",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20210021",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "González Chicoj, Carlos Raúl",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150091",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Guzmán Avila, Daniel Sebastián",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160120",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Lizama del Aguila, Martín André",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240090",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Maldonado Zamora, Jennifer Noemí",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190026",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Muñoz López, Henry Alexander",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170078",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Orellana Tema, Mircy Verónica",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180037",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Rivera Ralón, Daniela Nicole",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190024",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Sical Mejía, Luis Pablo",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150139",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Sisniega Escobar, Emiliano",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190033",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Soberanis Tezó, Isabella",
+    "grade": "Octavo",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240081",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Arenas Gómez, Santiago Isaac",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170068",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Brán Hernández, José Daniel",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180194",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Coco Aguilar, José Mario",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160025",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "de León Salguero, Lorelei",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20210049",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "González De León, José Benjamín",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190124",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Joachín Larios, Diego Alejandro",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240127",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "López Juárez, Máyori Celsa",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150137",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Morales Trejo, Valentina Johanne",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180028",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Navas González, Kamila",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150083",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Orozco López, Santiago Andrés",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140167",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Peren Rios, Nathalia",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250145",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Pérez Valladares, Marjorie Gisel",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260026",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Peruch Canel, Katheryne Ivonne",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160076",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Ramírez Herrera, Astrid Camila",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160108",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Reyes Martinez, Herbert",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180112",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Rubio González, Matías",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180009",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Saavedra Argueta, Mia",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220043",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Salazar Chicas, Pablo José",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250220",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Urrutia Pineda, Sergio Alejandro",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150004",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Valle Alonzo, Angel David",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160027",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Vásquez Garrido, Kamila Michelle",
+    "grade": "Noveno",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220017",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Alvarez Laparra, Alberto Alejandro",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150158",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Argueta Alvarez, Carlos Eduardo",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20210031",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Batrez Borrayo, Miguel Rodrigo",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140049",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Bustamante Fernandez, Esteban Gabriel",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230262",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Calderón Avila, María Isabella",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160033",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Chávez Romero, José David",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160101",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cosenza Ruiz, José Abraham",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250155",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Díaz Gálvez, Vannia Isabella",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260127",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Escobar Arana, Nathaly Nicole",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180199",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Espósito Reyes, Italo",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180051",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Gallo López, Jefferson Alberto",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170008",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Godínez Melgar, Paolo Alexander",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200100",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "González Mazariegos, Iván Fernando",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150011",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "González Rivera, Melany Nicolle",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160100",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Herrera Ruiz, Allyson Nicolle",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180137",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Jacobs Camey, Lenny Abraham",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170018",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "López Mancia, Rodrigo Alejandro",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150057",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "López Roca, Alessandra Gabriela",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170025",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Oliva España, Jonathan Esteban",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190112",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Parra Sepulveda, Nicole",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170020",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Rivera Ordóñez, Matteo Sebastian",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150001",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Shaheen Batch, Amaranta Rosel",
+    "grade": "Noveno",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170070",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Arévalo Asmus, Ana Lucía",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230034",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Castellanos Escobar, Waleska Veraly",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150008",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cruz Castañeda, Andrea Jimena",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260085",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Garcia Celada, Camila Montserrat",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180042",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Guamuch Loarca, Adriana Izabella",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150092",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Gutierrez López, Jezer Elí",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180160",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Guzmán Lee, Lucca Andre",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20130171",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Jeréz López, Fabio André",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190197",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Juárez Cerezo, Estrella Dallara",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20260079",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Lee Rodriguez, Youn Jea",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160019",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Luna Gramajo, Roberto Sebastián",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180022",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Maldonado Espinoza, Kristen Mariani",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240248",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Martínez Estrada, Isabella",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140029",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Mazariegos Mazariegos, Diego Andrés",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160112",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Mejía Monzón, Briana Valentina",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240232",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Mendez Rodríguez, Emily Nicole",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160052",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Morales Castillo, Madelyn Dayana",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240106",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Morán Leal, Elisa Sofía",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230024",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Osorio Williams, Joaquín Eduardo",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190147",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Samayoa Yumán, Dana Ofelia",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200171",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Socoreque Rivas, Gislena Isabella",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170146",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Valiente González, Daniela Sofía",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190029",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Vargas Flores, Juan Sebastián",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140099",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Xicay Tzirín, Werner José Daniel",
+    "grade": "Noveno",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140185",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Aldana Barillas, Kristha Dayanna",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150027",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Ayala Toledo, Ana Paula",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140197",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Batres Urizar, Génesis Victoria",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220056",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Búcaro Salguero, María Gabriela",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160102",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cosenza Ruiz, José Daniel",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170113",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Galindo Galicia, Pedro Pablo",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160126",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "González Leal, Valeria",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200128",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Jiménez Castillo, José Andres",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240062",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Matus Fuentes, Karen Dayana",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160077",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Monterroso Lizama, Herberth Asaf",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170017",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Orozco Oliveros, Natalie Alessandra",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170011",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Porras Gómez, Claudia Michelle",
+    "grade": "Décimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250186",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Alvarado Muñoz, José Luis",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160034",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Cáceres Aldana, Sara Cristina",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180118",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Estrada Tax, Andrea Abigail",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250158",
+    "created_at": "2026-03-04T18:54:28.153Z",
+    "name": "Hernández Figueroa, Dulce Sofía",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200129",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Jiménez Castillo, Andrea Elizabeth",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250218",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "López Montepeque, Analía del Milagro",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180142",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Martínez Contreras, Andrés Romilio",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20120283",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Muñóz Solórzano, Mia Isabella",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250202",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Ortiz Ochoa, Carlos Rene",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140013",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Pérez Hernández, Sara Mishelle",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200174",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Pineda Narvaez, Sashelyn Okairi",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20130200",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Quezada Castillo, Ana Camila",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20120280",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Rivas Rivera, Karla Denise",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220144",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Rodríguez Dávila, Maria Cristina",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180229",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Socoreque Rivas, Diego Enrique",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20130039",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Tejeda Trijilio, Laura Marcela",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220184",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Tobar Estrada, Mónica Sofía",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250167",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Tuy Osoy, Lirio Ivy Michelle",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20170099",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Villatoro Paíz, Emma Fernanda",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150055",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Zúñiga Bobadilla, Juan Fernando",
+    "grade": "Undécimo CCLL",
+    "section": "A",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140110",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "de La Rosa Barrios, Ian André",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20200039",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "de León Barrios, Edgar Daniel",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20130191",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "De León Ramírez, Valeria Camila",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20130073",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Duque Morales, Jenniffer Ileana",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140157",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Galán Gómez, Marilyn Ester",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140159",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "García Caal, Roberto Peniel",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180138",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Jacobs Camey, Owen Daniel",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140036",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Juárez Arango, David Andrés",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240091",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Landa Alvizuris, Diego Humberto",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140020",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Leiva Girón, Daniel André",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20160121",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Lizama Paredes, Christian Oswaldo",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140064",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Lucero Mejía, Juan Diego",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150028",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Luna Gramajo, Dana Anelisse",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230062",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Manzoni Salomon, Gian Fareed",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250165",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Martinez Cristales, Santiago David",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230293",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Morales Juárez, Mariana Alejandra",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230285",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Ovalle González, Natalia Cristina",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150029",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Pablo España, Alejandro Antonio",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250237",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Pérez Martinez, Isabella",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140010",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Perez Sosa, Rodrigo Andrés",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140005",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Quevedo Mejía, Andrés Alejandro",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180114",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Rubio González, Sara",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150042",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Tejeda Guerra, Adrián Josué",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220183",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Tobar Estrada, Ana Paula",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230236",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Tohom Alvarado, Anderson Samuel Andrés",
+    "grade": "Décimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220024",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Alvarado Navichoc, Sofía Mishelle",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240139",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Bravo Vicente, Luis David",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220115",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Colocho Garcia, Keneth Adrian",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140089",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "de León Estrada, Ana Marcela",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230191",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Espinoza Escobar, Georgy Alejandro de Jesús",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190094",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Flores Escobar, José Pablo",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20130014",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Franco Quevedo, Thania Marisol",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150077",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Galindo Garrido, Sergio Gabriel",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180099",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "González Rodríguez, Mía Isabella",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20130045",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Hernández García, Herardo Javier",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20240089",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Maldonado Zamora, Samuel Alejandro",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20130158",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Martínez Molina, Marie Andreé",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20190097",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Morales Lucero, José Eduardo",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230219",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Samayoa Chavez, Eimy Jimena",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140205",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Sánchez Mazariegos, Dulce Alejandra",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140002",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Villagrán Díaz, Ana Gabriela",
+    "grade": "Undécimo Computación",
+    "section": "B",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250103",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Aparicio Mejía, Mia Valentina",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20120258",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Del Busto Girón, Mariandree",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20120230",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Duque Morales, Oscar Estuardo",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140070",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Estrada Azurdia, Luis Diego",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140055",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Flores Aguilar, Anna Sofía",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20120063",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Linares Sosa, Santiago",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250050",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "López Estrada, Zoe Abigail",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230063",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Manzoni Salomon, Mia Farah",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20150105",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Mazariegos Hernández, Adrian Eduardo",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230266",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Morales del Cid, Ashley Anaí",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20220066",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Nova Santizo, Katherine Sophia",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20140034",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Oliva España, David Alejandro",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250146",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Popá Cardona, Alejandra Carolina",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20180113",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Ruiz Gómez, Lisa Nicole",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20230279",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "San Juan Carranza, María Andrée",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  },
+  {
+    "id": "20250130",
+    "created_at": "2026-03-04T18:54:28.154Z",
+    "name": "Xiloj Lopez, Katherine Fabiola",
+    "grade": "Undécimo Computación",
+    "section": "C",
+    "level": "Secundaria",
+    "active": true
+  }
+]

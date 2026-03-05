@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: scanqueue-backend
+    env: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 5000
+        # Vercel URL
+      - key: CORS_ORIGIN
+        value: "*"

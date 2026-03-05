@@ -1,0 +1,123 @@
+# ============================================
+# .dockerignore - ScanQueue
+# ============================================
+
+# Node modules - No son necesarios en imagen
+node_modules/
+npm-debug.log
+npm-error.log
+yarn-error.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Git LFS
+.gitpod.yml
+.gitpod.Dockerfile
+
+# Environment files (excepto los de ejemplo)
+.env
+.env.local
+.env.*.local
+.env.development
+.env.staging
+
+# Development
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.editorconfig
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+.vscode-insiders
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.pem
+*.key
+
+# Development conveniences
+docker-compose.yml
+docker-compose.dev.yml
+docker-compose.override.yml
+start-dev.sh
+start-dev.bat
+
+# Documentación (optimización)
+docs/
+*.md
+README.md
+CONTRIBUTING.md
+LICENSE
+CHANGELOG.md
+
+# Build outputs / Cache
+dist/
+build/
+.next/
+out/
+.cache/
+.turbo/
+
+# Testing
+coverage/
+.nyc_output/
+*.lcov
+.jest-cache/
+
+# Logs
+logs/
+*.log
+lerna-debug.log*
+
+# Database backups / dumps
+*.sql
+database/backups/
+database/dumps/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Upload directories (se mantienen en volumen)
+uploads/
+
+# Scripts development
+scripts/
+test/
+__tests__/
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+circle.yml
+Jenkinsfile
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Archivos específicos del proyecto a ignorar
+STRUCTURE.md
+DESARROLLO.md
+TESTING.md
+ENTREGA.md
+RESUMEN.md
+FAQ.md

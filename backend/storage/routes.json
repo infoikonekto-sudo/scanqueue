@@ -1,0 +1,23 @@
+[
+    {
+        "id": "route_1",
+        "name": "Ruta Norte - Bus 05",
+        "capacity": 25,
+        "description": "Servicio para zona norte y condominios aledaños",
+        "active": true
+    },
+    {
+        "id": "route_2",
+        "name": "Ruta Sur - Microbús 12",
+        "capacity": 15,
+        "description": "Servicio rápido casco central",
+        "active": true
+    },
+    {
+        "id": "route_3",
+        "name": "Personal - Retiro Padres",
+        "capacity": 500,
+        "description": "Retiro individual por padres de familia",
+        "active": true
+    }
+]

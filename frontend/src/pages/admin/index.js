@@ -1,0 +1,7 @@
+export { default as AdminDashboard } from './AdminDashboard'
+export { default as AdminStudents } from './AdminStudents'
+export { default as AdminRoutes } from './AdminRoutes'
+export { default as AdminReports } from './AdminReports'
+export { default as AdminAnalytics } from './AdminAnalytics'
+export { default as AdminSettings } from './AdminSettings'
+export { QRPrintView } from '../../components/admin/QRPrintView'
