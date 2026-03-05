@@ -26,7 +26,7 @@ const io = new Server(server, {
 
 // Middleware de CORS
 app.use(cors({
-  origin: config.cors.origin === '*' ? true : [config.cors.origin, 'http://localhost:3000', 'http://127.0.0.1:3000'],
+  origin: true,
   credentials: true,
 }));
 app.use(express.json({ limit: '10mb' }));
