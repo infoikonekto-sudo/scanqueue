@@ -34,11 +34,14 @@ export const registerSchema = Joi.object({
 /**
  * Esquema de validación para crear estudiante
  */
-export const studentSchema = Joi.object({
-  name: Joi.string().required().messages({
+/**
+ * Esquema base para estudiante
+ */
+const studentBaseSchema = {
+  name: Joi.string().messages({
     'any.required': 'El nombre es requerido',
   }),
-  grade: Joi.string().required().messages({
+  grade: Joi.string().messages({
     'any.required': 'El grado es requerido',
   }),
   section: Joi.string().allow(null, ''),
@@ -54,7 +57,27 @@ export const studentSchema = Joi.object({
   photo_url: Joi.string().allow(null, ''),
   transport_type: Joi.string().valid('parent', 'bus').allow(null, ''),
   daily_transport: Joi.boolean().allow(null),
-}).options({ stripUnknown: true }); // Ignorar campos extra en lugar de rechazarlos
+  unique_code: Joi.string().allow(null, ''),
+};
+
+/**
+ * Esquema para crear estudiante (requeridos)
+ */
+export const studentCreateSchema = Joi.object({
+  ...studentBaseSchema,
+  name: studentBaseSchema.name.required(),
+  grade: studentBaseSchema.grade.required(),
+}).options({ stripUnknown: true });
+
+/**
+ * Esquema para actualizar estudiante (todo opcional)
+ */
+export const studentUpdateSchema = Joi.object({
+  ...studentBaseSchema,
+}).options({ stripUnknown: true });
+
+// Mantener studentSchema por compatibilidad si es necesario
+export const studentSchema = studentCreateSchema;
 
 /**
  * Esquema de validación para crear ruta

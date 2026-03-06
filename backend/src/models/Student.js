@@ -41,7 +41,7 @@ export async function getTotalStudents() {
  */
 export async function getStudentById(id) {
   if (!isDbAvailable) {
-    const students = await studentStorage.find(s => s.id === id);
+    const students = await studentStorage.find(s => String(s.id) === String(id));
     return students[0] || null;
   }
 
