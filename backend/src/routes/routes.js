@@ -47,4 +47,10 @@ router.get('/:id/students', authenticateToken, RouteController.getRouteStudents)
  */
 router.get('/:id/scans', authenticateToken, RouteController.getRouteScans);
 
+/**
+ * Rutas de Transporte Diario
+ */
+router.put('/daily-transport/:studentId', authenticateToken, RouteController.toggleDailyTransport);
+router.get('/daily-transport/active', authenticateToken, RouteController.getDailyTransportActive);
+
 export default router;

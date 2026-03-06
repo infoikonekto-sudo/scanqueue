@@ -181,6 +181,15 @@ const AdminStudents = () => {
     }
   }
 
+  const handleToggleTransport = async (id, active) => {
+    try {
+      await updateStudent(id, { daily_transport: active })
+      // El hook useStudents ya actualiza el estado local
+    } catch (err) {
+      addToast('Error al actualizar transporte', 'error')
+    }
+  }
+
   const handleDeleteAll = async () => {
     await deleteAll()
     setShowDeleteAllModal(false)
@@ -269,6 +278,7 @@ const AdminStudents = () => {
             loading={loading}
             onEdit={handleEditStudent}
             onDelete={deleteStudent}
+            onToggleTransport={handleToggleTransport}
           />
         )}
       </Card>

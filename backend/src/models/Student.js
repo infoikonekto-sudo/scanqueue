@@ -115,6 +115,8 @@ export async function createStudent(data) {
       data.parent_email || null,
       data.parent_phone || null,
       data.unique_code,
+      data.transport_type || 'parent',
+      data.daily_transport || false,
     ]
   );
   return res.rows[0];
@@ -155,6 +157,14 @@ export async function updateStudent(id, data) {
   if (data.parent_phone !== undefined) {
     fields.push(`parent_phone = $${paramIndex++}`);
     values.push(data.parent_phone);
+  }
+  if (data.transport_type !== undefined) {
+    fields.push(`transport_type = $${paramIndex++}`);
+    values.push(data.transport_type);
+  }
+  if (data.daily_transport !== undefined) {
+    fields.push(`daily_transport = $${paramIndex++}`);
+    values.push(data.daily_transport);
   }
 
   if (fields.length === 0) return null;

@@ -179,6 +179,50 @@ export async function getRouteScans(req, res, next) {
   }
 }
 
+/**
+ * PUT /api/routes/daily-transport/:studentId
+ * Alterna el estado de transporte diario de un estudiante
+ */
+export async function toggleDailyTransport(req, res, next) {
+  try {
+    const { studentId } = req.params;
+    const { active } = req.body;
+
+    const student = await StudentModel.getStudentById(parseInt(studentId));
+    if (!student) {
+      return res.status(404).json({ success: false, message: 'Estudiante no encontrado' });
+    }
+
+    const updated = await StudentModel.updateStudent(studentId, { daily_transport: active });
+
+    res.json({
+      success: true,
+      data: updated,
+    });
+  } catch (error) {
+    next(error);
+  }
+}
+
+/**
+ * GET /api/routes/daily-transport/active
+ * Obtiene estudiantes con transporte diario activo hoy
+ */
+export async function getDailyTransportActive(req, res, next) {
+  try {
+    const students = await StudentModel.searchStudents(''); // Obtener todos
+    const active = students.filter(s => s.daily_transport === true);
+
+    res.json({
+      success: true,
+      data: active,
+      count: active.length,
+    });
+  } catch (error) {
+    next(error);
+  }
+}
+
 export default {
   getAllRoutes,
   getRouteById,
@@ -187,4 +231,6 @@ export default {
   deleteRoute,
   getRouteStudents,
   getRouteScans,
+  toggleDailyTransport,
+  getDailyTransportActive,
 };

@@ -114,6 +114,16 @@ export const routeService = {
     axios.get(`${API_BASE_URL}/routes/${id}/scans`, {
       headers: getHeaders()
     }),
+
+  toggleDailyTransport: (studentId, active) =>
+    axios.put(`${API_BASE_URL}/routes/daily-transport/${studentId}`, { active }, {
+      headers: getHeaders()
+    }),
+
+  getDailyActive: () =>
+    axios.get(`${API_BASE_URL}/routes/daily-transport/active`, {
+      headers: getHeaders()
+    }),
 }
 
 // === QR ===

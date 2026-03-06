@@ -171,21 +171,6 @@ async function findStudent(studentId) {
       }
     }
 
-    // Si no encuentra, buscar por número similar (Levenshtein)
-    if (!student) {
-      const allStudents = await StudentModel.getAllStudents(1000);
-      for (const s of allStudents) {
-        const distance = calculateLevenshteinDistance(
-          studentId.toString(),
-          s.id.toString()
-        );
-        if (distance <= 1) {
-          student = s;
-          break;
-        }
-      }
-    }
-
     if (!student) {
       throw new Error(`Estudiante con ID ${studentId} no encontrado`);
     }
