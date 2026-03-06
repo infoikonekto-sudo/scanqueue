@@ -160,15 +160,20 @@ function decodeCodeData(rawCode, type) {
  */
 async function findStudent(studentId) {
   try {
-    // Buscar por ID numérico
-    let student = await StudentModel.getStudentById(parseInt(studentId));
+    // Intentar buscar por ID (si es numérico)
+    let student = null;
+    if (!isNaN(parseInt(studentId))) {
+      student = await StudentModel.getStudentById(parseInt(studentId));
+    }
 
-    // Si no encuentra, buscar por unique_code
+    // Si no encuentra por ID numérico o el ID no es numérico, buscar por unique_code o carnet exacto
     if (!student) {
       const students = await StudentModel.searchStudents(studentId);
-      if (students.length > 0) {
-        student = students[0];
-      }
+      // Solo aceptamos coincidencia si el carnet o unique_code coincide EXACTAMENTE
+      student = students.find(s =>
+        String(s.id) === String(studentId) ||
+        String(s.unique_code) === String(studentId)
+      );
     }
 
     if (!student) {

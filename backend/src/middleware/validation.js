@@ -52,6 +52,8 @@ export const studentSchema = Joi.object({
   }),
   parent_phone: Joi.string().allow(null, ''),
   photo_url: Joi.string().allow(null, ''),
+  transport_type: Joi.string().valid('parent', 'bus').allow(null, ''),
+  daily_transport: Joi.boolean().allow(null),
 }).options({ stripUnknown: true }); // Ignorar campos extra en lugar de rechazarlos
 
 /**
@@ -71,7 +73,10 @@ export const routeSchema = Joi.object({
  * Esquema de validación para escaneo
  */
 export const scanSchema = Joi.object({
-  student_id: Joi.number().required().messages({
+  student_id: Joi.alternatives().try(
+    Joi.number(),
+    Joi.string()
+  ).required().messages({
     'any.required': 'El ID del estudiante es requerido',
   }),
   barcode: Joi.string().allow(null),
