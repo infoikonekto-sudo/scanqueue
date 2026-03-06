@@ -104,8 +104,8 @@ export async function createStudent(data) {
   }
 
   const res = await query(
-    `INSERT INTO students (name, grade, photo_url, transport_route_id, parent_email, parent_phone, unique_code) 
-     VALUES ($1, $2, $3, $4, $5, $6, $7) 
+    `INSERT INTO students (name, grade, photo_url, transport_route_id, parent_email, parent_phone, unique_code, transport_type, daily_transport) 
+     VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9) 
      RETURNING *`,
     [
       data.name,
@@ -228,7 +228,9 @@ export async function bulkCreateStudents(studentsData) {
   let paramIndex = 1;
 
   for (const data of studentsData) {
-    valueStrings.push(`($${paramIndex++}, $${paramIndex++}, $${paramIndex++}, $${paramIndex++}, $${paramIndex++}, $${paramIndex++}, $${paramIndex++})`);
+    const p = paramIndex;
+    valueStrings.push(`($${p}, $${p + 1}, $${p + 2}, $${p + 3}, $${p + 4}, $${p + 5}, $${p + 6}, $${p + 7}, $${p + 8})`);
+    paramIndex += 9;
     values.push(
       data.name,
       data.grade,
@@ -236,12 +238,14 @@ export async function bulkCreateStudents(studentsData) {
       data.transport_route_id || null,
       data.parent_email || null,
       data.parent_phone || null,
-      data.unique_code
+      data.unique_code,
+      data.transport_type || 'parent',
+      data.daily_transport || false
     );
   }
 
   const res = await query(
-    `INSERT INTO students (name, grade, photo_url, transport_route_id, parent_email, parent_phone, unique_code) 
+    `INSERT INTO students (name, grade, photo_url, transport_route_id, parent_email, parent_phone, unique_code, transport_type, daily_transport) 
      VALUES ${valueStrings.join(', ')} 
      RETURNING *`,
     values
